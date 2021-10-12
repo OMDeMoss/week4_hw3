@@ -4,7 +4,7 @@ console.log ("Hello world!")
 
 /* Write a warning to the console that says "This is a warning!" */
 
-console.log ("This is a warning!")
+console.warn ("This is a warning!")
 
 /*  8) Write an error to the console that says "Error! System critical!" */
 
